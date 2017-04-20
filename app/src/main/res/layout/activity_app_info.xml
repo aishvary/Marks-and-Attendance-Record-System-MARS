@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <android.support.v4.view.ViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/pager"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/linearLayoutAppInfoButton"
+        android:background="@color/colorPrimary" />
+
+    <com.flyco.pageindicator.indicator.FlycoPageIndicaor xmlns:fpi="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/indicator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/linearLayoutAppInfoButton"
+        android:layout_marginBottom="15dp"
+        android:layout_marginRight="10dp"
+        android:paddingTop="20dp"
+        fpi:fpi_cornerRadius="5dp"
+        fpi:fpi_gap="12dp"
+        fpi:fpi_height="10dp"
+        fpi:fpi_selectColor="@color/white"
+        fpi:fpi_unselectColor="#d3d3d3"
+        fpi:fpi_width="10dp" />
+
+    <View
+        android:id="@+id/view2"
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:layout_below="@+id/indicator"
+        android:alpha="0.5"
+        android:background="@color/white" />
+
+    <LinearLayout
+        android:id="@+id/linearLayoutAppInfoButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="2dp"
+        android:layout_weight="0.1"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+
+        <mars.com.ui.button.ButtonPlus
+            android:id="@+id/btnLogin"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/colorPrimaryDark"
+            android:paddingBottom="5dp"
+            android:paddingTop="0dp"
+            android:text="@string/login"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/white"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>

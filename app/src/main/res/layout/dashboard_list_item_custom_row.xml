@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dip">
+
+    <ImageView
+        android:id="@+id/imgDashboardSingleRow"
+        android:layout_width="48dip"
+        android:layout_height="48dip"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="20dip"
+        android:src="@drawable/ic_launcher" />
+
+    <TextView
+        android:id="@+id/txtDashboardSingleRowTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dip"
+        android:layout_marginRight="15dip"
+        android:layout_marginTop="5dip"
+        android:layout_toRightOf="@+id/imgDashboardSingleRow"
+        android:gravity="left"
+        android:paddingBottom="4dip"
+        android:text="Akash Bangad"
+        android:textColor="@color/black"
+        android:textSize="16dip" />
+
+    <TextView
+        android:id="@+id/txtDashboardSingleRowTDisc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtDashboardSingleRowTitle"
+        android:layout_marginLeft="15dip"
+        android:layout_marginRight="15dip"
+        android:layout_toRightOf="@+id/imgDashboardSingleRow"
+        android:alpha="0.5"
+        android:gravity="left"
+        android:paddingBottom="4dip"
+        android:text="Akash Bangad"
+        android:textColor="@color/black"
+        android:textSize="12dip" />
+
+</RelativeLayout>

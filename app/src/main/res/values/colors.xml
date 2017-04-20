@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1783AF</color>
+    <color name="colorPrimaryDark">#1783AF</color>
+    <color name="colorAccent">#1783AF</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="dirty_white">#C0C0C0</color>
+    <color name="hint_color">#78909C</color>
+    <color name="cursor_color">#738a37</color>
+    <color name="btn_text_color">#00AFF0</color>
+    <color name="btn_text_clicked_color">#00AFF0</color>
+    <color name="ic_menu_accent_color">#E91E63</color>
+
+
+</resources>

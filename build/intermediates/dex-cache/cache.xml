@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/aishvary/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/home/aishvary/Documents/mars/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1_52172d99ad1adf3db90c52c583c2930bb043086e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aishvary/.android/build-cache/06fec115072523290123dcf23e48da2bbcd8f60d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0db114dc90b3e192ba48d22421a9c47cfc01f00">
+        <dex dex="/home/aishvary/Documents/mars/app/build/intermediates/pre-dexed/debug/classes_254978ca5a6fd1398934bcf801fb19615189ba97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aishvary/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/aishvary/Documents/mars/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_64f905b2b0aa23fd28368ad85bad634a99bbf11f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aishvary/.android/build-cache/b3a9e5383e7ca00c76a92b8f49ce8e6e3d1ea7a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a7cf2a41aedccc427107ebb37762a5e2f5be590">
+        <dex dex="/home/aishvary/Documents/mars/app/build/intermediates/pre-dexed/debug/classes_4ee2e5c0cde7f19f82bbe2914d9233d5f673e995.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aishvary/.android/build-cache/a77734ebd31ddd55eec26618813bcea8a7ca4d87/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c3529d9491be892952749d252ae1defa9b1f937">
+        <dex dex="/home/aishvary/Documents/mars/app/build/intermediates/pre-dexed/debug/classes_181fcf91515dbdb1db4432e66a9ac80bdf102761.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aishvary/.android/build-cache/6a69c76871f7b266faa8f0c809c3dfc5534ce157/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e6e30a296f144126c62da545452456950e56b27">
+        <dex dex="/home/aishvary/Documents/mars/app/build/intermediates/pre-dexed/debug/classes_3bc8cc341e99ae69c98c6b09f7173e45875f7a31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aishvary/.android/build-cache/8a5a77f1f0fa1170b8672fb3d84a7ee705e3a73f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/home/aishvary/Documents/mars/app/build/intermediates/pre-dexed/debug/classes_2898f506278219b523e9f58c39cc2a7667f1c2d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aishvary/.android/build-cache/6aefb6fdb79437874c0f2541e42f92c52d8cb0a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/home/aishvary/Documents/mars/app/build/intermediates/pre-dexed/debug/classes_db93c5c036f4825e86d7b4edf5b7c1d2565a1acd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aishvary/.android/build-cache/f8fd19759a84416baa3d7bfaa2144097be7d822f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/home/aishvary/Documents/mars/app/build/intermediates/pre-dexed/debug/classes_793c093a56f5f6c747516596983d913819de457c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aishvary/.android/build-cache/15015867ca89843dc450047dd535ac95ced1dc01/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/home/aishvary/Documents/mars/app/build/intermediates/pre-dexed/debug/classes_a4e3266e515580c02e1c66c0d5a4cd4663c2ba6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aishvary/.android/build-cache/79f76083f51c972d9c7c5393d4cdf21b32c240a7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="/home/aishvary/Documents/mars/app/build/intermediates/pre-dexed/debug/classes_e787eac8f76b43dec1447cb5820d4844932bdaba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aishvary/.android/build-cache/eb850f74414957e5eb3b75348deda8a7040a157b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="828f50e8aff9f21c75e61a319c38993efc0590ca">
+        <dex dex="/home/aishvary/Documents/mars/app/build/intermediates/pre-dexed/debug/classes_5c7884fb575764e3f9b2bbc375b0c0be346f87b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aishvary/.android/build-cache/20c5cc14e4af1a2a2e8dd3d46e3ab18a9dd8b318/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a93aa431de60b775c91158433f3c687f1d32cb9c">
+        <dex dex="/home/aishvary/Documents/mars/app/build/intermediates/pre-dexed/debug/classes_f370a45515fb78f3d94179eeaabc1e98d472cf4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aishvary/.android/build-cache/af6ac53d1c1c8f608cd8a65fd1be9e39e09a2a66/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a366d1aafcb2b2753b36cd997db81aaf86c7acf">
+        <dex dex="/home/aishvary/Documents/mars/app/build/intermediates/pre-dexed/debug/classes_781f21f025d16aa695e8cc65134dacabdfb7f83b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aishvary/.android/build-cache/031434ad4597fa9880d06af0c53c3fa74bb0782e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/home/aishvary/Documents/mars/app/build/intermediates/pre-dexed/debug/classes_955784a587793d60c1f259bde1bd873bed9c3466.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aishvary/.android/build-cache/53874f3aed3cdb903b528e55da0ca6aafbe1d550/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
+        <dex dex="/home/aishvary/Documents/mars/app/build/intermediates/pre-dexed/debug/classes_80ca1c030d2d6b150c307bb5c3e7d9e6b59ae6ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aishvary/.android/build-cache/75d2f80f9f6ff39f4f4754495b4934d209da5a2b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="/home/aishvary/Documents/mars/app/build/intermediates/pre-dexed/debug/classes_5542fc42ba95866bc9c9b4972b99d3c3bd3c7500.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aishvary/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/aishvary/Documents/mars/app/build/intermediates/pre-dexed/debug/library-2.4.0_8102ea2dc31426f125abceb752acb26c141fd021.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aishvary/.android/build-cache/1027ceef2fc103f0d93c6641b0888ca5c4d675a7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
+        <dex dex="/home/aishvary/Documents/mars/app/build/intermediates/pre-dexed/debug/classes_fd1c7b2be9ec584dca32bb35bc5bd04e95525d8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aishvary/.android/build-cache/3be552a096d7dff9ccc80910c49da16c4446976b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3e490e64161e2f31e26412fd6683ef432663b2aa">
+        <dex dex="/home/aishvary/Documents/mars/app/build/intermediates/pre-dexed/debug/classes_7e40f5623c12e14fd4eb6c6b1cb21aad36887215.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aishvary/.android/build-cache/edba1acbd09b8b0837cb4eea888c0b14f5cbf45f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="/home/aishvary/Documents/mars/app/build/intermediates/pre-dexed/debug/classes_36cabe9c3bfb843dbf4e1ad3eb0b4d1881f9a5ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aishvary/.android/build-cache/2f94a5fead6de62dd99077c589a6f1c24b851db1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="/home/aishvary/Documents/mars/app/build/intermediates/pre-dexed/debug/classes_157a9b81ec7aed01e648152511799fd34d225f2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aishvary/.android/build-cache/169df6dcec27257c12fd7c2bf096102f0a8142cf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/aishvary/Documents/mars/app/build/intermediates/pre-dexed/debug/classes_c0e7b67dbd6df17e7032fca1188a3f95f67d4848.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aishvary/.android/build-cache/caf2be3618c6f978009c3c1de2171e9d52cf009d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a24cba08e1d865a79e61335f5a1bd64d520106d">
+        <dex dex="/home/aishvary/Documents/mars/app/build/intermediates/pre-dexed/debug/classes_d81dfdc7ac05eca350debb62e351876c0420b961.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aishvary/.android/build-cache/ead8bc9e20b500c66089c6a9cf953fbb04be0845/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/aishvary/Documents/mars/app/build/intermediates/pre-dexed/debug/classes_8caf302e62c53c3c94da788d7a97f4fe5b58ca67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aishvary/.android/build-cache/4abe017830aa0cf4b971dd0e064738f6a0c32856/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="/home/aishvary/Documents/mars/app/build/intermediates/pre-dexed/debug/classes_4ca583fabedd2c95ad141fe610be71dca7d25841.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aishvary/.android/build-cache/2dbe2533af5c7eb2a38fea8ac9e61f11054b5919/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="/home/aishvary/Documents/mars/app/build/intermediates/pre-dexed/debug/classes_319f2f71ec6ce7753821548a3be1856b657b4e14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aishvary/.android/build-cache/fec8d845a861b7786df5ebda6d51371c24a869e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df559ab8a9d5d44cf0a49dbb2be402637b90ba90">
+        <dex dex="/home/aishvary/Documents/mars/app/build/intermediates/pre-dexed/debug/classes_c0659ec53c6eb0f81259fb950776e840d679abc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aishvary/.android/build-cache/ead8bc9e20b500c66089c6a9cf953fbb04be0845/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/aishvary/Documents/mars/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_165c800861818ec1e2a2363a57fb74f52b54d9d5.jar" />
+    </item>
+
+</items>

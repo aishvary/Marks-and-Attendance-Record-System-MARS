@@ -1,0 +1,52 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="mars.com">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:replace="android:icon">
+
+        <service android:name=".service.MyFirebaseMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <service android:name=".service.MyFirebaseInstanceIDService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity android:name=".activities.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".activities.LoginModeActivity"/>
+        <activity android:name=".activities.TeacherLoginActivity"/>
+        <activity android:name=".activities.AppInfoActivity" />
+        <activity android:name=".activities.LoginActivity" />
+        <activity android:name=".activities.DashboardActivity" />
+        <activity android:name=".activities.CalendarActivity">
+            <meta-data android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activities.DashboardActivity"/>
+        </activity>
+        <activity android:name=".activities.TeacherDashboardActivity"/>
+        <activity android:name=".activities.SyllabusActivity">
+            <meta-data android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activities.DashboardActivity"/>
+        </activity>
+
+        <activity android:name=".activities.AttendanceActivity"/>
+        <activity android:name=".activities.MarksActivity"/>
+        <activity android:name=".activities.UpdateAttendanceActivity"/>
+
+    </application>
+
+</manifest>

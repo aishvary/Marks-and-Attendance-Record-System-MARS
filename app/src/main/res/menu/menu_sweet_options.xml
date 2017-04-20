@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_syllabus"
+        android:icon="@drawable/syllabus"
+        android:orderInCategory="100"
+        android:title="@string/syllabus"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_calender"
+        android:icon="@drawable/calendar"
+        android:orderInCategory="100"
+        android:title="@string/calender"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu_logout"
+        android:icon="@drawable/logout"
+        android:orderInCategory="100"
+        android:title="@string/logout"
+        app:showAsAction="never"/>
+
+
+</menu>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "52370608526",
+    "firebase_url": "https://mars-9d4c3.firebaseio.com",
+    "project_id": "mars-9d4c3",
+    "storage_bucket": "mars-9d4c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52370608526:android:5e1de64b5ec1e850",
+        "android_client_info": {
+          "package_name": "mars.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52370608526-5k1sba61p3u48op5usjinan53j2jrbgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlkbugzMEusY7ABuBw7ssgwucoj_fRBpY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

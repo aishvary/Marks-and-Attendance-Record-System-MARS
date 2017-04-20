@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MARS</string>
+
+    <!--Login-->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgotPassword">Forgot Password?</string>
+
+    <!--Dashboard Menu-->
+    <string name="action_settings">Settings</string>
+    <string name="attendance_record">Attendance Record</string>
+    <string name="my_profile">My Profile</string>
+    <string name="time_table">Time Table</string>
+    <string name="marks_record">Marks Record</string>
+    <string name="extras">Extras</string>
+
+    <string name="toolbarTitle">Toolbar Title</string>
+    <string name="app_name_small">M-A-R-S</string>
+    <string name="enter_roll_number">Please Enter your Roll Number</string>
+    <string name="roll_number">Roll Number</string>
+    <string name="enter">Enter --></string>
+    <string name="no_internet">Could Not Connect To Internet</string>
+    <string name="ok">Ok</string>
+    <string name="no_text">No Fields Should be Blank!</string>
+    <string name="home">Home</string>
+    <string name="student_home">Student Home</string>
+    <string name="logout">Logout</string>
+    <string name="syllabus">Syllabus</string>
+    <string name="calender">Academic Calender</string>
+    <string name="home_desc_1">Check Your Daily Attendance Record</string>
+    <string name="home_title_1">Daily Attendance</string>
+    <string name="home_desc_2">Check Your Marks Record of CT\'s</string>
+    <string name="home_title_2">Marks</string>
+    <string name="logout_message">Are you sure to logout?</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="teacher_dashboard_info">Welcome, the following listed are the classes you teach. Click on any one to update attendance or marks.</string>
+</resources>

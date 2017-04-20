@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/ll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="3">
+
+    <RelativeLayout
+        android:id="@+id/rl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:elevation="6dip"
+        android:paddingBottom="45dip"
+        android:paddingTop="45dip">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/imgProfile"
+            android:layout_width="96dip"
+            android:layout_height="96dip"
+            android:layout_marginLeft="24dip"
+            android:layout_marginTop="24dip"
+            android:src="@mipmap/profile_pic"
+            app:civ_border_color="@color/dirty_white"
+            app:civ_border_width="2dip" />
+
+        <TextView
+            android:id="@+id/txtName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="18dip"
+            android:layout_marginRight="18dip"
+            android:layout_marginTop="35dip"
+            android:layout_toRightOf="@+id/imgProfile"
+            android:padding="8dip"
+            android:text="HARSH DEEP SINGH"
+            android:textColor="@color/white"
+            android:textSize="18dip"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txtRollNum"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txtName"
+            android:layout_marginLeft="18dip"
+            android:layout_marginRight="18dip"
+            android:layout_toRightOf="@+id/imgProfile"
+            android:padding="8dip"
+            android:text="1302910064"
+            android:textColor="@color/white"
+            android:textSize="14dip" />
+
+        <TextView
+            android:id="@+id/txtSem"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txtRollNum"
+            android:layout_marginLeft="18dip"
+            android:layout_marginRight="18dip"
+            android:layout_toRightOf="@+id/imgProfile"
+            android:padding="8dip"
+            android:text="Sem : "
+            android:textColor="@color/white"
+            android:textSize="14dip"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/txtSemester"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txtRollNum"
+            android:layout_marginLeft="-25dip"
+            android:layout_marginRight="18dip"
+            android:layout_toRightOf="@+id/txtSem"
+            android:padding="8dip"
+            android:text="VII"
+            android:textColor="@color/white"
+            android:textSize="14dip"
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fabMenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/rl"
+        android:layout_marginRight="32dip"
+        android:layout_marginTop="-26dip"
+        android:elevation="6dip"
+        android:src="@mipmap/ic_menu"
+        app:backgroundTint="@color/ic_menu_accent_color"
+        app:fabSize="normal" />
+
+    <ListView
+        android:id="@+id/listItems"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl"
+        android:layout_marginTop="30dip"
+        android:paddingBottom="10dip"
+        android:paddingTop="10dip" />
+
+    <View
+        android:id="@+id/view1"
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:layout_below="@+id/listItems"
+        android:layout_marginTop="-7dip"
+        android:alpha="0.7"
+        android:background="@color/dirty_white" />
+
+
+</RelativeLayout>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home"
+            android:checked="false"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/profile"
+            android:checked="false"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/my_profile" />
+
+        <item
+            android:id="@+id/notifications"
+            android:checked="false"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/attendance_record" />
+
+        <item
+            android:id="@+id/circulars"
+            android:checked="false"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/marks_record" />
+
+        <item
+            android:id="@+id/time_table"
+            android:checked="false"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/time_table" />
+
+        <item
+            android:id="@+id/action_settings"
+            android:checked="false"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/action_settings" />
+
+        <item
+            android:id="@+id/logout"
+            android:checked="false"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/logout" />
+
+    </group>
+
+</menu>
