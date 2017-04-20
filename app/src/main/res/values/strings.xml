@@ -35,5 +35,5 @@
     <string name="logout_message">Are you sure to logout?</string>
     <string name="cancel">Cancel</string>
     <string name="submit">Submit</string>
-    <string name="teacher_dashboard_info">Welcome, the following listed are the classes you teach. Click on any one to update attendance or marks.</string>
+    <string name="teacher_dashboard_info">Welcome, the following listed are the classes you teach. Click on any one of the options to update attendance or marks.</string>
 </resources>
